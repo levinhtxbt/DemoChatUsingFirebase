@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "50104771895",
+    "firebase_url": "https://chat-5291a.firebaseio.com",
+    "project_id": "chat-5291a",
+    "storage_bucket": "chat-5291a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50104771895:android:d5ac521d66f947e0",
+        "android_client_info": {
+          "package_name": "net.levinh.demochatusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50104771895-2okj992bobh54mb31lvuv7mj9qu62rbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkhvOFFqC3oijINcb0VgauisYZC1Zm00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
